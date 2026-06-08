@@ -34,7 +34,7 @@ Analyze this plant leaf image and return:
 3. Cause
 4. Treatment
 5. Prevention
-6. At last print ``BUILT BY PERVEEZ``
+
 
 Keep it simple for farmers
 """
